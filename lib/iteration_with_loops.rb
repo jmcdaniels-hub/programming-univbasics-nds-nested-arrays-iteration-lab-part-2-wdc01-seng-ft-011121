@@ -23,7 +23,7 @@ def find_min_in_nested_arrays(src)
     new_array << lowest_temperatures
    
   end 
-   src 
+   new_array
 end  
    
 
